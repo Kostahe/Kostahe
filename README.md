@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kostya</h1>
 
-- 🙀 I’m currently learning **Firebase**
-
-- 💬 Ask me about **Android**
+- 🙀 I’m currently learning **Flutter**
 
 - 📫 How to reach me **huzilkon@gmail.com**
 
