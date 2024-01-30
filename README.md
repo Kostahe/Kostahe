@@ -7,7 +7,7 @@
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kostahe&label=Profile%20views&color=2edf85&style=flat-square" alt="kostahe" /> </p>
 
-- 🙀 I’m currently learning **Flutter**
+- 🙀 I’m currently learning **Testing**
 
 - 📫 How to reach me **huzilkon@gmail.com**
 
