@@ -9,7 +9,7 @@
 
 - 🤗 I’m currently working on **<a href="https://github.com/Kostahe/Clipie">Clipie</a>**
 
-- 🙀 I’m currently learning **Testing**
+- 🙀 I’m currently learning **Spring**
 
 - 📫 How to reach me **huzilkon@gmail.com**
 
