@@ -1,8 +1,8 @@
 <h1 align="center">
     <div>
         <div> 
-        <img style="width:80px; height:45px;" src="https://github.com/Kostahe/Kostahe/assets/113007546/a9515f16-72d8-42b4-ab8e-b1cfe31ea448"/>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=2edf85&size=40&center=true&vCenter=true&width=500&height=40&duration=3000&lines=Hello+There!+👋;+I'm+Kostya;" />
+        <img style="width:80px; height:80px;" src="https://github.com/Kostahe/Kostahe/assets/113007546/a9515f16-72d8-42b4-ab8e-b1cfe31ea448"/>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=2edf85&size=40&center=true&vCenter=true&width=500&height=80&duration=3000&lines=Hello+There!+👋;+I'm+Kostya;" />
     </div>
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kostahe&label=Profile%20views&color=2edf85&style=flat-square" alt="kostahe" /> </p>
