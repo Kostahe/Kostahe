@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Chatterix](https://github.com/Kostahe/Chatterix)
 
-- 🙀 I’m currently learning **Spring**
+- 🙀 I’m currently learning **Microservices**
 
 - 📫 How to reach me **huzilkon@gmail.com**
 
