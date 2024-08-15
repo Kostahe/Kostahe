@@ -1,7 +1,5 @@
 <h1 align="center">😎 Welcome to my profile 😎</h1>
 
-
-
 <p> <img src="https://komarev.com/ghpvc/?username=kostahe&label=Profile%20views&color=025cda&style=for-the-badge" /> </p>    
 
 <div align="center">
