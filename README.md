@@ -1,5 +1,7 @@
 <h1 align="center">😎 Welcome to my profile 😎</h1>
 
+
+
 <p> <img src="https://komarev.com/ghpvc/?username=kostahe&label=Profile%20views&color=025cda&style=for-the-badge" /> </p>    
 
 <div align="center">
@@ -68,7 +70,8 @@
     <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kostah&theme=transparent" />
 </div>
-<hr>
+
+<img src="https://raw.githubusercontent.com/kostahe/kostahe/master/waves.svg" width="100%" height="150">
 
 <!--<h1 align="center">
     <div>
