@@ -1,9 +1,9 @@
 <h1 align="center">😎 Welcome to my profile 😎</h1>
-     
-<div align="center">
 
-![Discord Presence](https://lanyard.kyrie25.me/api/571633649468833792?idleMessage=Sleeping%F0%9F%98%B4&useDisplayName=false&waveColor=102946&gradient=102946-185283-FFFFFF)
-    
+<p> <img src="https://komarev.com/ghpvc/?username=kostahe&label=Profile%20views&color=025cda&style=for-the-badge" /> </p>    
+
+<div align="center">
+     <img width="600" src="https://lanyard.kyrie25.me/api/571633649468833792?idleMessage=Sleeping%F0%9F%98%B4&useDisplayName=false&waveColor=025cda&gradient=025cda-185283-FFFFFF" />
 </div>
 
 <h2 align="center">About me</h2>
