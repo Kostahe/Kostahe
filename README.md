@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/kostahe/kostahe/master/rotated-waves.svg" width="100%" height="100">
+
 <h1 align="center">😎 Welcome to my profile 😎</h1>
 
 <p> <img src="https://komarev.com/ghpvc/?username=kostahe&label=Profile%20views&color=025cda&style=for-the-badge" /> </p>    
@@ -69,16 +71,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kostah&theme=transparent" />
 </div>
 
-<img src="https://raw.githubusercontent.com/kostahe/kostahe/master/waves.svg" width="100%" height="150">
-
-<!--<h1 align="center">
-    <div>
-        <div> 
-        <img style="width:80px; height:80px;" src="https://github.com/Kostahe/Kostahe/assets/113007546/a9515f16-72d8-42b4-ab8e-b1cfe31ea448"/>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=2edf85&size=40&center=true&vCenter=true&width=500&height=80&duration=3000&lines=Hello+There!+👋;+I'm+Kostya;" />
-    </div>
-</h1>
--->
-
-<!--<p> <img src="https://komarev.com/ghpvc/?username=kostahe&label=Profile%20views&color=2edf85&style=flat-square" alt="kostahe" /> </p>
--->
+<img src="https://raw.githubusercontent.com/kostahe/kostahe/master/waves.svg" width="100%" height="100">
