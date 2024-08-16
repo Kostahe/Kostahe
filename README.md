@@ -11,7 +11,6 @@
 <h2 align="center">About me</h2>
 
 - **Name**: Kostya
-- **Hobbys**: Coding, Football
 - **Currently working on**: [CorporationX](https://github.com/CorporationX)
 - **I am currently learning**: Microservices
 - **Fun fact**: I think I ain't funny
