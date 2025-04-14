@@ -11,7 +11,7 @@
 <h2 align="center">About me</h2>
 
 - **Name**: Kostya
-- **Currently working on**: [CorporationX](https://github.com/CorporationX)
+- **Currently working on**: 
 - **I am currently learning**: Microservices
 - **Fun fact**: I think I ain't funny
 
