@@ -5,8 +5,9 @@
 <p> <img src="https://komarev.com/ghpvc/?username=kostahe&label=Profile%20views&color=025cda&style=for-the-badge" /> </p>    
 
 <div align="center">
-     <img width="600" src="https://lanyard.kyrie25.me/api/571633649468833792?idleMessage=Sleeping%F0%9F%98%B4&useDisplayName=false&waveColor=025cda&gradient=025cda-185283-FFFFFF" />
+     <a href="https://discord.com/users/571633649468833792"><img width ="600" src="https://lanyard.cnrad.dev/api/571633649468833792?theme=&idleMessage=Sleeping%20%F0%9F%98%B4&bg=025cda" /></a>
 </div>
+
 
 <h2 align="center">About me</h2>
 
